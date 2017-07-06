@@ -7,15 +7,6 @@ view: publishers {
     sql: ${TABLE}.id ;;
   }
 
-#   dimension_group: created {
-#     type: time
-#   }
-#
-#   dimension: test_created {
-#     type: string
-#     sql: ${created_} ;;
-#   }
-
   dimension: test_dupe {
     type: string
     type: number
