@@ -7,6 +7,8 @@ view: sales {
     sql: ${TABLE}.id ;;
   }
 
+#   asdfasdfsf
+
   dimension: issues_sold {
     type: number
     sql: ${TABLE}.count ;;

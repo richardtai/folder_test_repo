@@ -7,6 +7,8 @@ view: publishers {
     sql: ${TABLE}.id ;;
   }
 
+#   asdfasdf
+
   dimension: test_dupe {
     type: string
     type: number
