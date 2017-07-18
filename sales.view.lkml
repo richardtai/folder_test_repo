@@ -6,7 +6,7 @@ view: sales {
     type: string
     sql: ${TABLE}.id ;;
   }
-
+# asdfasdf
 #   asdfasdfsf
 
   dimension: issues_sold {
