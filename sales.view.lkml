@@ -7,6 +7,7 @@ view: sales {
     sql: ${TABLE}.id ;;
   }
 # asdfasdf
+# Here's ANOTHER commit.
 #   asdfasdfsf
 
   dimension: issues_sold {
