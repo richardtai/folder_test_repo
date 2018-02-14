@@ -11,7 +11,6 @@ view: publishers {
 
   dimension: test_dupe {
     type: string
-    type: number
     sql: ${TABLE}.id ;;
   }
 
