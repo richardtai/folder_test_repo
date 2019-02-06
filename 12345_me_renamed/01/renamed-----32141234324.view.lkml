@@ -1,4 +1,4 @@
-view: 324235asdf {
+view: hello_world {
   # # You can specify the table name if it's different from the view name:
   # sql_table_name: my_schema_name.tester ;;
   #
@@ -29,7 +29,7 @@ view: 324235asdf {
   # }
 }
 
-# view: 324235asdf {
+# view: hello_world {
 #   # Or, you could make this view a derived table, like this:
 #   derived_table: {
 #     sql: SELECT
